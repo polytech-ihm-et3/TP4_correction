@@ -1,7 +1,6 @@
 package controller;
 
 import events.CouleurObservateur;
-import model.Model;
 
 public interface ControllerInterface
 {

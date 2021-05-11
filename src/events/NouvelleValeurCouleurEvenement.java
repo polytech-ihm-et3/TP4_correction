@@ -1,9 +1,9 @@
 package events;
 
-import java.awt.Color;
 import javafx.event.Event;
 import javafx.event.EventType;
 
+@SuppressWarnings("serial")
 public class NouvelleValeurCouleurEvenement extends Event
 {
 	private int valeurRouge;
