@@ -221,6 +221,6 @@ public class View implements CouleurObservateur
 		
 		textfieldHexa.setText("" + evenement.getValeurHexadecimale());
 		
-		couleur.setStyle("-fx-background-color:#" + evenement.getValeurHexadecimale() + ";");;
+		couleur.setStyle("-fx-background-color:#" + evenement.getValeurHexadecimale() + ";");
 	}
 }
